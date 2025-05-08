@@ -104,7 +104,7 @@
     }
   ],
   "variable": [
-    { "key": "baseUrl", "value": "http://localhost:5000" },
+    { "key": "baseUrl", "value": "http://localhost:6000" },
     { "key": "token", "value": "<your-jwt-token>" }
   ]
 }
